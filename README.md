@@ -1,5 +1,7 @@
 ![Example image 12](./images/charlesdeluvio-S2AcayPkszE-unsplash.jpg "Example image 12")
 ![Example image 12](/images/charlesdeluvio-S2AcayPkszE-unsplash.jpg "Example image 12")
+![Example image 12](/example-image.jpg "Example image 12")
+![Example image 12](./example-image.jpg "Example image 12")
 
 ---
 
